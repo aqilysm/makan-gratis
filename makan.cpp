@@ -32,4 +32,5 @@ int main(){
     cout << "Maximal : " << max << endl;
     cout << "Rata-rata : " << avg << endl;
     cout << "Jumlah : " << sum << endl;
+    cout << "kelas" << endl;
 }
